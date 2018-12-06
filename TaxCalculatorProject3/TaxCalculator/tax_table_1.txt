@@ -1,0 +1,9 @@
+2
+150.00
+350.00
+.10
+.20
+.30
+This is the tax table that is constructed by the default
+TaxTable constructor
+

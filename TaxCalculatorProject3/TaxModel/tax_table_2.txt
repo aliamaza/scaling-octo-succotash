@@ -1,0 +1,18 @@
+6
+9325
+37950
+91900
+191650
+416700
+418400
+.1
+.15
+.25
+.28
+.33
+.35
+.396
+12345.54321
+This is the tax table used in lab 9/20
+Except for that last number, but your program
+should  ignore that
